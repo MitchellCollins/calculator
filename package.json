@@ -1,0 +1,24 @@
+{
+  "name": "@mitchell-collins/calculator",
+  "version": "1.0.0",
+  "description": "Used to make calculations",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MitchellCollins/calculator.git"
+  },
+  "author": "Mitchell Collins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MitchellCollins/calculator/issues"
+  },
+  "homepage": "https://github.com/MitchellCollins/calculator#readme",
+  "dependencies": {
+    "@mitchell-collins/calculator": "file:"
+  }
+}
