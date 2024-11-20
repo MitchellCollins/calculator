@@ -53,7 +53,7 @@ const circle = {
      * Returns the calculated `radius` of a circle.
      * 
      * The `radius` can be calculated either with the `circumference` or the `area` of the circle. Provide
-     * either the `circumference` or `area` to the `dimenstion` argument and specify which one was provided
+     * either the `circumference` or `area` to the `dimension` argument and specify which one was provided
      * in the `option` argument.
      * 
      * Options:
