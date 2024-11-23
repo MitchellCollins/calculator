@@ -79,7 +79,7 @@ const rectangle = {
      * @returns {Number}
      */
     calculateSide: function (dimension, sideA, option) {
-        validator.checkUndefinedArray([dimension, option]);
+        validator.checkUndefinedArray([dimension, sideA, option]);
         validator.checkDataTypeArray([dimension, sideA], "number");
         validator.checkDataType(option, "object");
 
