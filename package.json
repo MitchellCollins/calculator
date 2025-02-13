@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/MitchellCollins/calculator#readme",
   "dependencies": {
-    "@mitchell-collins/calculator": "file:"
+    "@mitchell-collins/validator": "^1.6.8"
   }
 }
