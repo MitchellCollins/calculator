@@ -20,5 +20,8 @@
   "homepage": "https://github.com/MitchellCollins/calculator#readme",
   "dependencies": {
     "@mitchell-collins/validator": "^1.6.8"
+  },
+  "devDependencies": {
+    "@mitchell-collins/tester": "2.4.4"
   }
 }
